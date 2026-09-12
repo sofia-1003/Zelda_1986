@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="zelda_1986"
+run/main_scene="uid://ba6fqv3f6oeyb"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://icon.svg"
 
