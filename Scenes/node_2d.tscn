@@ -74,3 +74,4 @@ centered = false
 metadata/_edit_lock_ = true
 
 [node name="Player" parent="." unique_id=748978236 instance=ExtResource("3_hh5uf")]
+position = Vector2(168, 86)
